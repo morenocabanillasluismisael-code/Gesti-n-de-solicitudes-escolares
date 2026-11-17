@@ -1,6 +1,6 @@
 """Mesa de partes digital - I.E. N. 81770 "Maria Inmaculada Concepcion".
 
-Ejecutar:  py IE_MARIA_INMACULADA.py
+    Ejecutar:  py IE_MARIA_INMACULADA.py
 """
 import os
 import sys
